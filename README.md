@@ -1,2 +1,19 @@
-# coffee-shop-sales-dashboard
-Excel dashboard analyzing coffee shop sales data
+# Coffee Shop Sales Dashboard (Excel)
+
+## Project Overview
+This project analyzes coffee shop sales data using Microsoft Excel.
+An interactive dashboard was created to track sales performance.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & Slicers
+
+## Key Insights
+- Daily and monthly sales trends
+- Best-selling products
+- Peak sales hours
+- Revenue distribution
+
+## Dashboard Preview
+(Screenshot attached above)
