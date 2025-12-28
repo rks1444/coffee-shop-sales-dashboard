@@ -10,10 +10,11 @@ An interactive dashboard was created to track sales performance.
 - Charts & Slicers
 
 ## Key Insights
-- Daily and monthly sales trends
+- Different Coffee Size
 - Best-selling products
 - Peak sales hours
-- Revenue distribution
+- Bills at Different Locations
+- No. of Orders on Weekdays
 
 ## Dashboard Preview
 (Screenshot attached above)
